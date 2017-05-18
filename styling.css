@@ -1,0 +1,175 @@
+body{
+
+  font-family: helvetica;
+  width: 1200px;
+}
+.mitch{
+  font-family: BlackChancery;
+  color: black;
+  margin-left:750px;
+  font-size: 3em;
+  border-bottom: 2px solid TEAL;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 40px;
+}
+.inbalk{
+  margin-top: 35px;
+}
+.bovenbalk{
+  font-family: BlackChancery;
+  color: black;
+  font-size: 1em;
+  width: 1730px;
+  height: 100px;
+  margin-right: 50px;
+  float: left;
+  margin-bottom: 25px;
+  background-color: TEAL;
+}
+#deklok{
+      color: TEAL;
+      width: 100px;
+      height: 20px;
+      text-align: center;
+      font-size: 1.2em;
+      font-family: helvetica;
+      font-weight: 10;
+      padding: 15px;
+      position: relative;
+      left: 30%;
+      margin-left:1200px;
+      bottom: 50%;
+      border-radius:180px;
+}
+p{
+  font-family: BlackChancery;
+  color: black;
+  margin-left: 60px;
+  font-size: 2em;
+  border-bottom: 2px solid TEAL;
+  margin-right: 30px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+img{
+  width: 300px;
+  height: 300px;
+  margin-left: 50px;
+  margin-right: -10px;
+  margin-top: 10px;
+  float: left;
+}
+
+.fotos{
+  float: left;
+  width: 1425px;
+  height: 320px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  border: 2px solid black;
+
+}
+
+img:nth-child(5){
+      display: none;}
+img:nth-child(6){
+      display: none;}
+img:nth-child(7){
+            display: none;}
+img:nth-child(8){
+      display: none;}
+img:nth-child(9){
+      display: none;}
+img:nth-child(10){
+      display: none;}
+img:nth-child(11){
+      display: none;}
+img:nth-child(12){
+      display: none;}
+img:nth-child(13){
+      display: none;}
+img:nth-child(14){
+      display: none;}
+img:nth-child(15){
+      display: none;}
+img:nth-child(16){
+      display: none;}
+img:nth-child(17){
+      display: none;}
+img:nth-child(18){
+      display: none;}
+img:nth-child(19){
+      display: none;}
+img:nth-child(20){
+      display: none;}
+img:nth-child(21){
+      display: none;}
+
+.socialmedia{
+  width: 80px;
+  height: 80px;
+  margin-top: 2px;
+}
+
+.media1{
+  width: 50px;
+  height: 50px;
+  position: relative;
+  margin-left: 50px;
+  margin-top: 50px;
+  margin-right: 1px;
+}
+.fotos2{
+  float: left;
+  width: 1425px;
+  height: 320px;
+  margin-left: 50px;
+  margin-bottom: 20px;
+  border-radius: 25px;
+  border: 2px solid black;
+
+}
+.tekst{
+  font-size: 1em;
+  font-family: BlackChancery;
+  text-decoration: none;
+  border-radius: 25px;
+}
+
+
+.tekstIns{
+  font-size: 1em;
+  font-family: BlackChancery;
+  text-decoration: none;
+  margin-top: 5px;
+  border-radius: 25px;
+}
+
+button{
+  position: relative;
+  margin-top: 900px;
+  margin-left: 450px;
+  width: 100px;
+  height: 60px;
+  font-family: BlackChancery;
+  font-style: italic;
+  font-size: 1.5em;
+  background-color: Teal;
+  border: 2px solid black;
+}
+h4{
+  font-size: 1em;
+  border-bottom: 1px solid teal;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+#about{
+  display: none;
+  margin-left: 50px;
+  text-align: justify;
+  width: 1450px;
+
+}
